@@ -186,7 +186,7 @@ The final trained model predicts whether a customer is likely to **Stay** or **C
 
 The complete notebook containing all preprocessing, exploratory analysis, feature engineering, model training, and evaluation is available below.
 
-**🔗 View Notebook:** [Bank_Customer_Churn_Analysis.ipynb](notebook/Bank_Customer_Churn_Analysis.ipynb)
+**🔗 View Notebook:** "C:\Users\User\Downloads\Churn_Customer_Bank.ipynb"
 
 
 ---
