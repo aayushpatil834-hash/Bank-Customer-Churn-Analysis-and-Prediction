@@ -18,7 +18,7 @@ Rather than simply predicting whether a customer will churn, the project focuses
 
 # 📊 Customer Churn Analytics Dashboard
 
-<img width="1508" height="792" alt="image" src="https://github.com/user-attachments/assets/ec2f00e1-d241-4cde-b688-3209e305cf81" />
+<img width="1506" height="797" alt="image" src="https://github.com/user-attachments/assets/dbbc9063-1b4e-430b-91cb-1912cd36d312" />
 
 
 # 📈 Business Insights & Recommendations
